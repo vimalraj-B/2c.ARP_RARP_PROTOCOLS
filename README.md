@@ -80,6 +80,7 @@ while True:
 ## OUPUT -RARP
 ## CLIENT - RARP
 <img width="1280" height="253" alt="image" src="https://github.com/user-attachments/assets/24132485-b6da-48f1-b6a7-cc9b70f4d8bf" />
+
 ## SERVER - RARP
 <img width="1136" height="405" alt="image" src="https://github.com/user-attachments/assets/865d80e9-9ea2-4e2b-9290-0d58955022b4" />
 
